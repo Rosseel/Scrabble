@@ -1,5 +1,5 @@
 import unittest
-from etl import *
+import etl
 
 
 class TransformTest(unittest.TestCase):
